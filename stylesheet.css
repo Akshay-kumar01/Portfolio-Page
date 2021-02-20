@@ -1,0 +1,78 @@
+h1.Welcome
+{
+    font-style: bold;
+    font-style: italic;
+}
+img.Profile
+{
+    border-radius: 10px;
+    float: top;
+    float: right;
+}
+img.certi
+{
+    border-radius: 10px;
+    float: right;
+}
+div.Info
+{
+    color: white;
+}
+a:hover
+{
+    color: white;
+}
+ div.First
+{
+    text-decoration: underline;
+    color:white;
+} 
+div.Code
+{
+    text-decoration: underline;
+    font-size: larger;
+    color: white;
+}
+div.Experience
+{
+    font-size: larger;
+    text-decoration: underline;
+    color: white;
+}
+div.Exp
+{
+    color: white;
+}
+div.new
+{
+    color: white;
+}
+.DSC-WOW-KISANSEVA
+{
+    border-radius: 10px;
+    background-color:cornflowerblue;
+}
+.University
+{
+    font-size: larger;
+    color:white;
+    text-decoration: underline;
+}
+.U1
+{
+    color: white;
+}
+.email
+{
+    color: white;
+}
+.id
+{
+    border-radius: 10px;
+    background-color:cornflowerblue;
+}
+.GIT
+{
+    border-radius: 10px;
+    background-color:cornflowerblue;
+}
