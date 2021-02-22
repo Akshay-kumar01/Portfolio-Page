@@ -1,78 +1,48 @@
-h1.Welcome
-{
-    font-style: bold;
-    font-style: italic;
-}
 img.Profile
 {
-    border-radius: 10px;
-    float: top;
-    float: right;
+    border-style:double;
+    border-width: 5px;
+    border-color:black;
 }
 img.certi
 {
-    border-radius: 10px;
-    float: right;
-}
-div.Info
-{
-    color: white;
+    border-style: double;
+    border-width: 10px;
 }
 a:hover
 {
     color: white;
+    background-color: black;
 }
- div.First
+div.First
 {
     text-decoration: underline;
     color:white;
-} 
-div.Code
+    padding: 10px;
+    text-align: center;
+    background:crimson;
+  }
+  div.code
 {
     text-decoration: underline;
-    font-size: larger;
-    color: white;
-}
+    color:white;
+    padding: 10px;
+    text-align: center;
+    background:crimson;
+} 
 div.Experience
 {
-    font-size: larger;
     text-decoration: underline;
-    color: white;
-}
-div.Exp
-{
-    color: white;
-}
-div.new
-{
-    color: white;
-}
-.DSC-WOW-KISANSEVA
-{
-    border-radius: 10px;
-    background-color:cornflowerblue;
+    color:white;
+    padding: 10px;
+    text-align: center;
+    background:crimson;
 }
 .University
 {
-    font-size: larger;
-    color:white;
     text-decoration: underline;
-}
-.U1
-{
-    color: white;
-}
-.email
-{
-    color: white;
-}
-.id
-{
-    border-radius: 10px;
-    background-color:cornflowerblue;
-}
-.GIT
-{
-    border-radius: 10px;
-    background-color:cornflowerblue;
+    color:white;
+    padding: 10px;
+    text-align: center;
+    background:crimson;
 }
